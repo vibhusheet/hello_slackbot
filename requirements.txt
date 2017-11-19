@@ -1,0 +1,4 @@
+flask==0.12.2
+slackclient==1.0.0
+arrow
+schedule
