@@ -1,7 +1,7 @@
 ## Outline
 This is a hello slackbot
 
-- we can schedule to send a message to each user in '#general' group at 12:00pm of the user's timezones
+- schedule to send a hello to each user in '#general' group at 12:00pm(Noon) of the user's timezones
 
 ## how to test
 
